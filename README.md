@@ -1,2 +1,2 @@
 # SoftwareQualityProject
-LightZone improvement, testing.
+Some unit tests designed for LightZone
